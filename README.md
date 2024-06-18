@@ -47,8 +47,6 @@ reached)
 
 Answer : For above question i have apply queue system. Please check with my code.
 
-## Stage 03
-
 Question 03 : Create a simple web form with 3 input parameters. After submitting the form, values should be
 stored in browser-based “Indexed DB”. Create a simple data table to view the above
 information from “Indexed DB”.
